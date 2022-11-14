@@ -3,10 +3,10 @@ h1 {
 }
 
 .square {
-  height: 200px;
+  height: 150px;
   width: 200px;
-  border: 1px solid black;
-  font-size: 150px;
+  border: 2px solid black;
+  font-size: 100px;
   text-align: center;
 }
 
@@ -15,4 +15,12 @@ h1 {
   flex-wrap: wrap;
   width: 620px;
   margin: 0 auto;
+}
+
+button {
+  height: 50px;
+  width: 150px;
+  margin: 0 auto;
+  margin-top: 25px;
+  align-content: center;
 }
